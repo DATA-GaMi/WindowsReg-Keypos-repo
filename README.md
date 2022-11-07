@@ -1,2 +1,2 @@
 # WindowsReg-Keypos-repo
-整理Windows注册表的中关键位置
+整理Windows注册表中的关键位置
